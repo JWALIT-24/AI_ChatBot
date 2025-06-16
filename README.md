@@ -87,3 +87,5 @@ open index.html   <!-- macOS -->
 <b><p><strong>MIT License</strong> – This project is open-source and freely available under the terms of the 
 <a href="https://github.com/JWALIT-24/AI_ChatBot/blob/main/LICENSE" target="_blank">MIT License</a>. You are allowed to use, modify, and distribute it with credit to the original author.</p><b>
 
+<h3>>💡 Contributions</h3>
+<p>We welcome contributions! Feel free to open issues or submit pull requests to enhance the project.<p>
