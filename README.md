@@ -83,7 +83,7 @@ open index.html   <!-- macOS -->
 <h2>🙋‍♂️ Author</h2>
 <p>Made by <strong>Jwalit Lal</strong></p>
 
-<h3>📄 License</h3>
-<p><strong>MIT License</strong> – This project is open-source and freely available under the terms of the 
-<a href="https://github.com/JWALIT-24/AI_ChatBot/blob/main/LICENSE" target="_blank">MIT License</a>. You are allowed to use, modify, and distribute it with credit to the original author.</p>
+<h3>📝 License</h3>
+<b><p><strong>MIT License</strong> – This project is open-source and freely available under the terms of the 
+<a href="https://github.com/JWALIT-24/AI_ChatBot/blob/main/LICENSE" target="_blank">MIT License</a>. You are allowed to use, modify, and distribute it with credit to the original author.</p><b>
 
