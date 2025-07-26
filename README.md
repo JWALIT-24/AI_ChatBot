@@ -15,13 +15,12 @@ An elegant **ChatGPT-style assistant** built using vanilla **HTML, CSS, and Java
 - ✨ Smooth animations
 
 ---
-
-## 📁 Project Structure
-📦 dark-chat-assistant/
-├── index.html # Main webpage
-├── style.css # Custom styles
-├── script.js # JS for chat logic & API
-└── README.md # Documentation
+dark-chat-assistant/
+│
+├── 📄 index.html     → Main webpage
+├── 🎨 style.css      → Custom styles
+├── ⚙️ script.js       → Chat logic & API handling
+└── 📘 README.md       → Project documentation
 
 
 ---
