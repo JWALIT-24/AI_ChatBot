@@ -15,12 +15,11 @@ An elegant **ChatGPT-style assistant** built using vanilla **HTML, CSS, and Java
 - ✨ Smooth animations
 
 ---
-dark-chat-assistant/
-│
-├── 📄 index.html     → Main webpage
-├── 🎨 style.css      → Custom styles
-├── ⚙️ script.js       → Chat logic & API handling
-└── 📘 README.md       → Project documentation
+📁 Project Structure
+	•	index.html – This is the main HTML file that serves as the structure of the web page.
+	•	style.css – Contains all the custom styling and design elements for the webpage.
+	•	script.js – Handles the chat logic, API calls, and user interactions.
+	•	README.md – Provides documentation and instructions for the project.
 
 
 ---
