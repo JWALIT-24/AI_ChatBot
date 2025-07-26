@@ -35,7 +35,7 @@ An elegant **ChatGPT-style assistant** built using vanilla **HTML, CSS, and Java
 <p>A sleek, responsive AI-powered chatbot with a modern dark theme.</p>
 
 <h2>📥 1. Clone the Repository</h2>
-<pre><code>git clone https://github.com/your-username/dark-chat-assistant.git
+<pre><code>git clone https://github.com/JWALIT-24/AI_ChatBot.git
 cd dark-chat-assistant
 </code></pre>
 
